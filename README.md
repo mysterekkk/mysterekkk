@@ -1,133 +1,84 @@
-# 👋 Hey, I'm Łukasz!
+<div align="center">
 
-Below you can choose your language 👇
+# 👋 Hi, I'm Łukasz Rosikoń
 
----
+### Senior Full-Stack Developer · Founder of [Luroweb.pl](https://luroweb.pl)
 
-## 🇬🇧 English Version
-<details>
-  <summary><b>Click to expand English version</b></summary>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mysterek/)
+[![Website](https://img.shields.io/badge/Luroweb.pl-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luroweb.pl)
+[![GitHub followers](https://img.shields.io/github/followers/mysterekkk?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/mysterekkk)
 
-<br>
-
-# 👋 Hey, I'm Łukasz!
-
-Welcome to my GitHub profile — glad you're here! 🚀  
-I'm a curious mind who loves technology, design, creativity, and learning something new every single day.
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **front-end developer** and the owner of **Luroweb.pl**, where I build modern, fast and scalable **web applications** — including websites, online stores, and fully custom solutions tailored to clients’ needs.
+Senior Full-Stack Developer with hands-on experience designing and delivering scalable web applications from architecture to production. I run **[Luroweb.pl](https://luroweb.pl)** — a software studio building modern web products for businesses across Poland and Europe.
 
-Alongside my work, I'm studying **marketing** and **social media management**, which helps me merge technical development with strategic communication and branding.
-
-When I'm not coding, I’m usually recharging by the water — **fishing is my favourite reset button**. 🎣
+I bridge the gap between solid engineering and product thinking — combining deep technical expertise with strategic communication to deliver solutions that truly matter.
 
 ---
 
-## 💡 Tech Stack
+## 🔧 Tech Stack
 
-I work with:
+<div align="center">
 
-- 🟦 PHP  
-- ⚡ JavaScript  
-- 🔵 TypeScript  
-- ⚛️ React  
-- 🌱 Node.js  
-- 🚀 Nest.js  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-I focus on building modern interfaces, scalable architecture, and solutions that bring real value to businesses.
-
----
-
-## 🏢 Luroweb.pl — My Company
-
-I run **Luroweb**, a web software studio specializing in:
-
-- 🌐 modern websites  
-- 🛒 e-commerce stores  
-- 🛠️ custom web applications and tailored solutions  
-
-👉 Visit: **https://luroweb.pl**
+</div>
 
 ---
 
-## 🎣 Hobbies & Life Balance
+## 🏗️ What I Build
 
-When I need to recharge — I go fishing.  
-Nature + silence = perfect reset. 🌿
-
----
-
-## 🤝 Let's Connect
-
-👉 **LinkedIn:** https://www.linkedin.com/in/mysterek/
-
-</details>
+- **Full-Stack Web Applications** — React + NestJS + PHP, end-to-end
+- **E-Commerce Platforms** — custom stores with scalable backend solutions
+- **SaaS & Business Tools** — tailored to real business needs
+- **Performance & Architecture** — optimizing for speed, scalability and DX
 
 ---
 
-## 🇵🇱 Wersja Polska
-<details>
-  <summary><b>Kliknij, aby rozwinąć wersję polską</b></summary>
+## 📊 GitHub Stats
 
-<br>
+<div align="center">
 
-# 👋 Cześć, jestem Łukasz!
+![Łukasz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mysterekkk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-Miło mi, że odwiedzasz mój profil GitHub! 🚀  
-Uwielbiam technologię, design, kreatywność i codzienne zdobywanie nowych umiejętności.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mysterekkk&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=mysterekkk&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-## 🧑‍💻 O mnie
-
-Jestem **front-end developerem** oraz właścicielem **Luroweb.pl** — firmy tworzącej nowoczesne, szybkie i skalowalne **aplikacje webowe**, takie jak strony, sklepy internetowe oraz rozwiązania szyte na miarę.
-
-Poza pracą studiuję **marketing** i **zarządzanie mediami społecznościowymi**, co pozwala mi łączyć programowanie ze strategią i komunikacją wizualną.
-
-A gdy nie siedzę przy kodzie — najczęściej odpoczywam nad jeziorem, bo **wędkarstwo to mój idealny reset**. 🎣
+</div>
 
 ---
 
-## 💡 Technologie
+## 🏢 Luroweb — My Software Studio
 
-Pracuję z:
+I run **[Luroweb.pl](https://luroweb.pl)**, a web development studio specializing in:
 
-- 🟦 PHP  
-- ⚡ JavaScript  
-- 🔵 TypeScript  
-- ⚛️ React  
-- 🌱 Node.js  
-- 🚀 Nest.js  
-
-Tworzę nowoczesne front-endy, skalowalne backendy i praktyczne rozwiązania dla firm.
+- 🌐 Modern websites & landing pages
+- 🛒 E-commerce solutions
+- 🛠️ Custom web applications & integrations
+- 🚀 Performance optimization & technical consulting
 
 ---
 
-## 🏢 Luroweb.pl — moja firma
+<div align="center">
 
-Prowadzę **Luroweb**, gdzie tworzę:
+*Let's build something great together.*
 
-- 🌐 nowoczesne strony internetowe  
-- 🛒 sklepy e-commerce  
-- 🛠️ autorskie aplikacje webowe i indywidualne rozwiązania  
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mysterek/)
 
-👉 Strona: **https://luroweb.pl**
-
----
-
-## 🎣 Hobby i równowaga
-
-Kiedy potrzebuję odpocząć — jadę na ryby.  
-Cisza i natura działają cuda. 🌿
-
----
-
-## 🤝 Kontakt
-
-👉 **LinkedIn:** https://www.linkedin.com/in/mysterek/
-
-</details>
+</div>
