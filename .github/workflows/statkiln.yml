@@ -1,0 +1,39 @@
+name: StatKiln
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: statkiln
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: mysterekkk/statkiln@v1
+        with:
+          theme-light: light
+          theme-dark: midnight
+          cards: overview,languages,streak
+          timezone: Europe/Warsaw
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/statkiln
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update StatKiln cards"
+            git push
+          fi
