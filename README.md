@@ -87,11 +87,15 @@ I bridge the gap between solid engineering and product thinking — combining de
 
 <div align="center">
 
-<a href="https://github.com/mysterekkk/ai-commerce-hub"><img src="https://img.shields.io/badge/AI%20Commerce%20Hub-TypeScript-3178C6?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/mysterekkk/web-image-compressor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mysterekkk&repo=web-image-compressor&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/mysterekkk/color-palette-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mysterekkk&repo=color-palette-studio&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/mysterekkk/web-image-compressor"><img src="https://img.shields.io/badge/Web%20Image%20Compressor-JavaScript-F7DF1E?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="https://github.com/mysterekkk/color-palette-studio"><img src="https://img.shields.io/badge/Color%20Palette%20Studio-JavaScript-F7DF1E?style=for-the-badge&logo=github&logoColor=black" /></a>
 
 </div>
+
+| Project | What it does |
+|---|---|
+| **[Web Image Compressor](https://github.com/mysterekkk/web-image-compressor)** | Free online image compressor & WebP converter — runs 100% in the browser, open source |
+| **[Color Palette Studio](https://github.com/mysterekkk/color-palette-studio)** | Modern color palette generator — create, lock & export palettes, built with React + Vite |
 
 > Most of my recent work (AI Commerce Hub, CRM/LMS platforms, custom e-commerce builds) ships under private client repositories through Luroweb — see the studio section below for the kind of systems I deliver.
 
@@ -101,16 +105,13 @@ I bridge the gap between solid engineering and product thinking — combining de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mysterekkk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysterekkk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-7%2C772-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-14_days-F7B500?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public_Repos-52-2EA043?style=for-the-badge&logo=github&logoColor=white)
 
 <img src="https://streak-stats.demolab.com?user=mysterekkk&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mysterekkk&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12&row=2" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mysterekkk&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mysterekkk/mysterekkk/output/github-contribution-grid-snake-dark.svg" />
